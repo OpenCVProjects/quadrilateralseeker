@@ -1,5 +1,4 @@
 # Autor: Jose Estevez Fernandez
-#Practica 1.
 
 import numpy as np
 import cv2
